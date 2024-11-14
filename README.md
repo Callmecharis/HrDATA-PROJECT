@@ -6,3 +6,8 @@ Attrition is the turnover or employee churn, refers to the natural process of em
 In the process of this analysis exploratory data analysis method will be used, this data analysis method uses visual displays and statistical tools to explore data sets for patterns, relationships, and anomalies. The goal of EDA is to learn about the data, rather than to confirm a hypothesis. 
 EDA is an iterative process that involves:Visualizing data,identifying patterns and anomalies, generating hypotheses,data collection and cleaning.
 In the process of analysis, i was able to deduce the count of attrition, rate of attrition in the company
+## TOOLS USED
+*	Ms Excel Download Here (http//www.excel.com)
+* Power BI Download Here (http//www.PowerBi.com)
+```## DATA CLEANING AND PREPARATION
+## DATA CLEANING AND PREPARATION
