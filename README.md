@@ -13,8 +13,13 @@ In the process of analysis, i was able to deduce the count of attrition, rate of
    ```
  ## DATA CLEANING AND PREPARATION
 In the process of data cleaning and preparation i performed the following actions
-	data loading
-	retriving missing data
-	Data cleaning and formating
-data summerisation
+1. data loading
+2. Removing unnecessary column
+3. Data cleaning and formating
+4. creating addition measure by adding conditional column on the data model
+```
+## DATA USED
+
+The primary source of the data is gotten from ms excel and this an open source data that can easily be downloaded from an open source online
+
 
