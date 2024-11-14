@@ -31,4 +31,22 @@ In the cause of the analysis,
 In summary, data analysis of open-source information is a powerful tool that can facilitate knowledge, promote transparency, and encourage shared progress. By engaging with these datasets.
 In analysis the data we able to deduce the cause of attrition, rate of attrition several measure as well as Dax function are used to generate the rate of attrition in the company , the department with the highest attrition rate, attriton by age-band, attrition by gender.```
 ## EXPLORATORY DATA (EDA)
+ a data analysis method that uses visual displays and statistical tools to explore data sets for patterns, relationships, and anomalies. The goal of EDA is to learn about the data, rather than to confirm a hypothesis. 
+EDA is an iterative process that involves:
+Data collection and cleaning
+Visualizing data
+Identifying patterns and anomalies
+Generating hypotheses
+EDA involved the exploring of the data  with visualisation on Power BI to answer some questions about the data such as;
+
+i. Sum of attrition count
+ii. Sum of attrition by Education Field
+iii. Sum of employee number
+iv. Average age of attrition
+v. Sum of monthly income
+vi. Count of attrition overtime
+vii. count of attrition by job role
+viii. Attrition by Age band
+ix. count of attrition by Gender
+x. count of attrition by marital status
 
