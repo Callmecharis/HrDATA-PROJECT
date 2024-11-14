@@ -27,5 +27,8 @@ This transformation phase ensured that the data was clean and cohesive, making t
 ## DATA USED
 The primary source of the data is gotten from ms excel and this an open source data that can easily be downloaded from an open source online```
 ## DATA ANALYSIS
-
+In the cause of the analysis, 
+In summary, data analysis of open-source information is a powerful tool that can facilitate knowledge, promote transparency, and encourage shared progress. By engaging with these datasets.
+In analysis the data we able to deduce the cause of attrition, rate of attrition several measure as well as Dax function are used to generate the rate of attrition in the company , the department with the highest attrition rate, attriton by age-band, attrition by gender.```
+## EXPLORATORY DATA (EDA)
 
