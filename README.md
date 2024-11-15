@@ -49,4 +49,7 @@ vii. count of attrition by job role
 viii. Attrition by Age band
 ix. count of attrition by Gender
 x. count of attrition by marital status
-
+xi.Maximum of monthly income 
+xii. count of attrition by education```
+## INSIGHT/INFERENCE
+The key insight 
