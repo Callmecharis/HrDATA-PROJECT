@@ -1,4 +1,4 @@
-# HrDATA-PROJECT
+# HR DATA-PROJECT
 This is where I documented my data when studying data analysis  using Power BI in Skill Harvest Academy
 ## Overview/Introduction
 The Human Resource data showcases the attrition in a given company.
@@ -52,4 +52,6 @@ x. count of attrition by marital status
 xi.Maximum of monthly income 
 xii. count of attrition by education```
 ## INSIGHT/INFERENCE
-The key insight 
+The key insight derived from analysing the HR Data using Power Bi as tool of analysis to generate visuals that depicts the rate of attrition, the count of attrition, the department with the highest attrition, the average age of attrition. These enables us to understand the reason for attrition, sum of attrition, the age band with the highest attrition and its implication of the company's productivity.```
+## CONCLUSION
+In conclusion, by the dept of the analysis carried out  attrition rate in the company is deduce, count of attrition by gender, profession, department, education field, age band,current employee and so on. with all these factors considered the company can strategise to reduce attrition  by monitoring and addressing early warning or signs of attrition, communicate oepnly and transparently with employees, recognise and reward employee's contribution etc.
