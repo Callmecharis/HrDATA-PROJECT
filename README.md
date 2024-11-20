@@ -14,22 +14,18 @@ In the process of analysis, i was able to deduce the count of attrition, rate of
  ## DATA CLEANING AND PREPARATION
 In the process of data cleaning and preparation i performed the following actions
 1. data loading
-2. Removing unnecessary column
+2. Removal of unnecessary column
 3. Data cleaning and formating
 4. creating addition measure by adding conditional column on the data model
 5.Data cleaning and transformation are critical steps in preparing raw data for analysis.
 In Power BI, we used Power Query to apply various transformations, ensuring that the data was consistent, accurate, and ready for analysis.
-Key transformations we applied included: Replacing Values:  we replaced missing or inconsistent values using Power Query’s Replace Values feature, especially in cases where country names or abbreviations were inconsistent across datasets.
-Data Type Corrections: Ensured that numeric fields (e.g., number of medals or athletes) were set to the correct data types, avoiding text or mixed data formats.
-Calculated Columns: We added calculated columns for total medal to ensure these values could be easily referenced during the data modeling phase.
-This transformation phase ensured that the data was clean and cohesive, making the modeling and visualization processes more efficient.```
-
+Key transformations: when the data is transformed on Power Bi we checked on the View tab for Column quality, value distribution,, column profile, column distribution, column statistics
 ## DATA USED
 The primary source of the data is gotten from ms excel and this an open source data that can easily be downloaded from an open source online```
 ## DATA ANALYSIS
 In the cause of the analysis, 
 In summary, data analysis of open-source information is a powerful tool that can facilitate knowledge, promote transparency, and encourage shared progress. By engaging with these datasets.
-In analysis the data we able to deduce the cause of attrition, rate of attrition several measure as well as Dax function are used to generate the rate of attrition in the company , the department with the highest attrition rate, attriton by age-band, attrition by gender.```
+In analysing the data we able to deduce the cause of attrition, rate of attrition several measure as well as Dax function are used to generate the rate of attrition in the company , the department with the highest attrition rate, attriton by age-band, attrition by gender.```
 ## EXPLORATORY DATA (EDA)
  a data analysis method that uses visual displays and statistical tools to explore data sets for patterns, relationships, and anomalies. The goal of EDA is to learn about the data, rather than to confirm a hypothesis. 
 EDA is an iterative process that involves:
